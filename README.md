@@ -11,10 +11,15 @@ Edit arguments in config.js:
 
 
   this.tokenShortName = "XCH";
+
   this.tokenAddress = "0xd8537fcc3f44f5244fe0852b8b8703dba8300774";
+
   this.tokenDecimals = 18;
+
   this.tokenName = "XCash Network Token";
+
   this.tokenDescription = "XCash Network Token";
+
   this.tokenTotalSupply = -1;
 
 
@@ -24,11 +29,13 @@ Install Node.js v8.x:
 
 # Using Ubuntu
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+
 sudo apt-get install -y nodejs
 
 
 4.
 cd token-explorer
+
 npm install
 
 
