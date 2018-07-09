@@ -1,5 +1,5 @@
 
-# Using Ubuntu 16.04
+# Using Ubuntu 16.04 LTS
 An ERC20 token explorer based on XCash network.
 
 
