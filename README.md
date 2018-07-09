@@ -1,4 +1,5 @@
-# token-explorer
+
+# Using Ubuntu 16.04
 An ERC20 token explorer based on XCash network.
 
 
@@ -27,7 +28,7 @@ Edit arguments in config.js:
 STEP 3.
 Install Node.js v8.x:
 
-# Using Ubuntu
+
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 
 sudo apt-get install -y nodejs
