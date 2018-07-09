@@ -4,10 +4,12 @@ An ERC20 token explorer based on XCash network.
 
 
 STEP 1.
+
 Copy config.js.example to config.js.
 
 
 STEP 2.
+
 Edit arguments in config.js:
 
 
@@ -26,8 +28,8 @@ Edit arguments in config.js:
 
 
 STEP 3.
-Install Node.js v8.x:
 
+Install Node.js v8.x:
 
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 
@@ -35,12 +37,14 @@ sudo apt-get install -y nodejs
 
 
 STEP 4.
+
 cd token-explorer
 
 npm install
 
 
 STEP 5.
+
 Change http port at bin/www.
 
 npm start
